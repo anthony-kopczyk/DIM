@@ -1,5 +1,7 @@
 ## Next
 
+* Allow masterworks to affect more than one stat
+
 ## 6.19.0 <span className="changelog-date">(2020-07-05)</span>
 
 * Loadout Optimizer has been... optimized. It now calculates sets in the background, so you can still interact with it while it works.
